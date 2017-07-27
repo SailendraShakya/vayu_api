@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+URL of web application
+----------------------
+https://vayuapp.herokuapp.com/
 
-Things you may want to cover:
+API to get json data from csv
+https://vayuapp.herokuapp.com/demo/index.json
 
-* Ruby version
+API to get html data from csv
+https://vayuapp.herokuapp.com/demo/index.html
 
-* System dependencies
+APT to get xml data from csv
+https://vayuapp.herokuapp.com/demo/index.xml
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Note: There is an error for xml data. I am trying to solved it.
