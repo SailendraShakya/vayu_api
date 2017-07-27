@@ -1,0 +1,16 @@
+<h1>CSV Data</h1>
+
+
+<table style="width:100%">
+  <tr>
+    <th>Author</th>
+    <th>Title</th>
+  </tr>
+	<% @csv.each do |c| %>
+	<tr>
+	<td><%= c['author'] %></td>
+	<td><%= c['title'] %></td>
+	</tr>
+	<% end %>
+</table>
+
